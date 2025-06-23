@@ -4,4 +4,4 @@ that :collision:,:exclamation:,:exclamation:,:question:
 
 :vertical_traffic_light:,:warning:,:round_pushpin:,:moyai:
 
-desdepues de tanto tiempo volvi :| nice
+despues de tanto tiempo volvi :| nice
